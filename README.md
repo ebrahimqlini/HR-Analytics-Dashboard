@@ -20,4 +20,10 @@ End-to-end HR Analytics project using Power BI, featuring workforce analysis, sa
 - Employee growth peaked in 2019.
 - No significant relationship was found between overtime hours and sick leave rates.
 
-   Dashboard Preview
+## Dashboard Preview
+![Business Problem](Images/Business_Problem.png)
+![Business_Requirements](Images/Business_Requirements.png)
+![HR_Employees_Report](Images/HR_Employees_Report.png)
+![Salaries_Employees_Report](Images/Salaries_Employees_Report.png)
+![Summary_Report](Images/Summary_Report.png)
+

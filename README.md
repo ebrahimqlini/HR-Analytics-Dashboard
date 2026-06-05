@@ -118,6 +118,8 @@ HR-Analytics-Dashboard/
 
 ## Dashboard Preview
 
-![Summary Report](Images/Summary_Report.png)
+![Business Problem](Images/Business_Problem.png)
+![Business Requirements](Images/Business_Requirements.png)
 ![HR Employees Report](Images/HR_Employees_Report.png)
 ![Salaries Employees Report](Images/Salaries_Employees_Report.png)
+![Summary Report](Images/Summary_Report.png)

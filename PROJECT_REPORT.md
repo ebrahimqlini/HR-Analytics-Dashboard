@@ -124,3 +124,12 @@ If this project is extended, the next version should include:
 - tenure segmentation
 - salary percentile bands
 - manager-level performance and leave views
+
+## 9) Diagnostic Details Page
+
+The diagnostic page is the most analytical part of the report because it moves beyond broad averages and highlights department-level pressure points.
+
+- **Major Mfg Projects** has the highest overtime, so it is the clearest workload-pressure department.
+- **Human Resources** is the best-performing department overall because it combines the highest salary and the highest job rate.
+- **Research Center** is the main red flag because it combines the highest sick leave, the lowest salary, and a weaker job rate.
+- **Manufacturing** drives the largest total payroll, which means headcount has a bigger impact on salary spend than average salary alone.

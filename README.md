@@ -141,3 +141,6 @@ Department-level workload, leave, performance, and payroll comparison.
 ### Summary Report
 Executive-level narrative of the main findings.
 ![Summary Report](Images/Summary_Report.png)
+
+### Diagnostic Details
+Department-level workload pressure, leave patterns, performance alignment, and payroll concentration.

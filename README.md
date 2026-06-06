@@ -104,6 +104,7 @@ HR-Analytics-Dashboard/
 ├── Images/
 │   ├── Business_Problem.png
 │   ├── Business_Requirements.png
+│   ├── Diagnostic Details.png
 │   ├── HR_Employees_Report.png
 │   ├── Salaries_Employees_Report.png
 │   └── Summary_Report.png
@@ -137,10 +138,8 @@ Salary distribution across departments, countries, and years of experience.
 
 ### Diagnostic Details
 Department-level workload, leave, performance, and payroll comparison.
+![Diagnostic Details](Images/Diagnostic Details.png)
 
 ### Summary Report
 Executive-level narrative of the main findings.
 ![Summary Report](Images/Summary_Report.png)
-
-### Diagnostic Details
-Department-level workload pressure, leave patterns, performance alignment, and payroll concentration.

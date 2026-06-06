@@ -74,6 +74,16 @@ The dataset contains **689 employees** across **15 fields**.
   - Training
   - Research/Development
 
+### Diagnostic Details
+
+The diagnostic page shows that the organization does not have one single workforce issue, but rather a few department-specific patterns that need different responses.
+
+- **Major Mfg Projects** has the highest overtime, making it the clearest workload-pressure department.
+- **Human Resources** is the strongest overall department because it combines the highest salary and the highest job rate.
+- **Research Center** is the main red flag because it combines the highest sick leave, the lowest salary, and a weaker job rate.
+- **Manufacturing** drives the largest total payroll, which means headcount has a bigger impact on salary spend than average salary alone.
+- The department-level view is more useful than the company-wide average because it exposes where risk and pressure are concentrated.
+
 ## 5) Business Interpretation
 
 This dashboard is useful because it combines three HR views in one place:
@@ -88,6 +98,8 @@ That makes it suitable for:
 - leave policy analysis
 - regional comparison
 - executive reporting
+
+The new diagnostic page strengthens the report by moving beyond simple averages and pointing to departments that may need HR follow-up.
 
 ## 6) Recommendations
 

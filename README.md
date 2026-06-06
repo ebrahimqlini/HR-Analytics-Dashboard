@@ -86,6 +86,7 @@ The HR team lacked a centralized view of workforce metrics, which made it diffic
 - **Business Requirements** - documents the questions the dashboard is designed to answer.
 - **HR Employees Report** - headcount, gender, country, leave, overtime, and growth analysis.
 - **Salaries Employees Report** - salary distribution by year of experience, country, department, and overtime.
+- **Diagnostic Details** - highlights workload pressure, leave patterns, performance alignment, and payroll concentration by department.
 - **Summary Report** - executive-level narrative summary of the main findings.
 
 ## Tools Used
@@ -118,8 +119,25 @@ HR-Analytics-Dashboard/
 
 ## Dashboard Preview
 
+### Business Problem
+The business challenge and the reason for building the dashboard.
 ![Business Problem](Images/Business_Problem.png)
+
+### Business Requirements
+The key questions the dashboard is designed to answer.
 ![Business Requirements](Images/Business_Requirements.png)
+
+### HR Employees Report
+Headcount, country, gender, leave, overtime, and workforce growth analysis.
 ![HR Employees Report](Images/HR_Employees_Report.png)
+
+### Salaries Employees Report
+Salary distribution across departments, countries, and years of experience.
 ![Salaries Employees Report](Images/Salaries_Employees_Report.png)
+
+### Diagnostic Details
+Department-level workload, leave, performance, and payroll comparison.
+
+### Summary Report
+Executive-level narrative of the main findings.
 ![Summary Report](Images/Summary_Report.png)

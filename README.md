@@ -1,4 +1,4 @@
-# HR Analytics Dashboard
+# HR Workforce Analytics Dashboard
 
 An end-to-end HR analytics project built in Power BI to help management understand workforce distribution, salary patterns, leave behavior, overtime load, and employee growth across countries and departments.
 

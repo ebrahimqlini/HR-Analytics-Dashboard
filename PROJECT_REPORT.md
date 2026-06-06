@@ -1,8 +1,8 @@
-# HR Analytics Project Report
+# HR Workforce Analytics Project Report
 
 ## 1) Objective
 
-Build a Power BI dashboard that gives HR leadership a single view of workforce size, department distribution, salary patterns, leave usage, overtime load, and growth over time.
+Build a Power BI dashboard that gives HR leadership a single view of workforce size, department distribution, salary patterns, leave usage, overtime load, and growth over time for the HR Workforce Analytics Dashboard project.
 
 ## 2) Data Overview
 
